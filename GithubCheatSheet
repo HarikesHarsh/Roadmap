@@ -1,0 +1,35 @@
+GitHub
+
+
+- [ ] Cd ~ (name )—> to go back in directory(parent)
+- [ ] Cd——> change directory
+- [ ] Ls——> list command(list all the things in my  folder)
+- [ ] Mkdir——> make directory
+- [ ] git init——> initialise empty git repository
+- [ ] ls -a ————> list all the hidden files
+- [ ] git status———> show the status
+- [ ] git add . ————> to add all the files. /// git add (individual names)
+- [ ] git commit  -m(-m—> message)———> to permanently save it
+- [ ] Vi (name of the file)——> command to add something is file using terminal
+- [ ] Cat (file name)——> displays everything available in file
+- [ ] git restore  - -staged (file name)——>. to discard changes in working directory 
+- [ ] Git log ——> shows list of all commits made earlier
+- [ ] Git reset (paste hash)——> to delete upper commits in git log
+- [ ] Git stash ———> git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them 
+- [ ] Git stash clear——> to remove stash
+- [ ] Git remote add origin ————> push the commits in local branch named master to remote named origin
+- [ ] Git push origin (master)———> which branch you want to push
+- [ ] ls .git ———> show inside git
+- [ ] ////———> NEVER COMMIT ON MAIN BRANCH
+- [ ] Git remote -v ————> to show GitHub link
+- [ ] Fork————> copy of project in own account
+- [ ] Git clone (origin link)
+- [ ] Git branch(branch name)———> to create a branch name
+- [ ] Git checkout (branch name)———> to switch between branches
+- [ ] 1 branch for 1 pull request
+- [ ] rm -rf (   “…..”)——> remove command
+- [ ] Force push request———> git push origin (branch name) -f
+- [ ] Git branch —delete/-d/-D (branch name)——>delete local git branch
+- [ ] Git push origin —delete(branch)——>from GitHub
+- [ ] Git remote set-url origin(origin link)——>remote origin already exists.
+- [ ] To make file (touch + file name).
