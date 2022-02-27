@@ -33,3 +33,4 @@ GitHub
 - [ ] Git push origin —delete(branch)——>from GitHub
 - [ ] Git remote set-url origin(origin link)——>remote origin already exists.
 - [ ] To make file (touch + file name).
+- [ ] to delete file from git branch ------> git rm -f( file name)  ------> git commit -m and git push origin( branch name).
